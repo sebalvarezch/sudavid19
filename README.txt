@@ -4,7 +4,7 @@ Instrucciones para ejecutar Bot:
 
 2. Chequear selección de script Python "split.py".
 Esto con la finalidad de evitar problemas de ejecución de scripts Python.
-(En otro caso, indicar donde se ubica el script split.py)
+(indicar donde se ubica el script split.py)
 
 3. Proceder con ejecución
 
